@@ -1,7 +1,7 @@
 """
 Final Project for CPSC 4970.
 This project was similar to a past project created for my coding students in pygame.
-Resources used for this project are provided by coding minds academy.
+Some resources used for this project are provided by coding minds academy.
 https://learn.codingminds.academy/apps/academy/courses/63ac6f23db03ad381223a44a
 https://www.pygame.org/docs/ref/time.html#pygame.time.Clock
 https://www.pygame.org/docs/ref/sprite.html
